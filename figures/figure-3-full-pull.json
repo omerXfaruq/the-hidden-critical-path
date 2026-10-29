@@ -1,0 +1,17 @@
+{
+  "source": "RESULTS.md Runs 7b and 17; updated EROFS LZ4 15.3 s supplied by the author",
+  "configurations": [
+    "Cloud baseline\nGzip",
+    "Gzip",
+    "Zstd",
+    "Zstd",
+    "EROFS LZ4"
+  ],
+  "seconds": [
+    266.7,
+    88.5,
+    48.5,
+    29.8,
+    15.3
+  ]
+}

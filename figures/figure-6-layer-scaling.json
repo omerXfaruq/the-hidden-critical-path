@@ -1,0 +1,17 @@
+{
+  "source": "RESULTS.md corrected Run 18",
+  "labels": [
+    "Tar \u00b7 3 \u00d7 536.9 MB",
+    "Tar \u00b7 12 \u00d7 134.2 MB"
+  ],
+  "sequential_s": [
+    1.13,
+    0.801
+  ],
+  "parallel_s": [
+    0.285,
+    0.117
+  ],
+  "runs_per_configuration": 4,
+  "statistic": "maximum observed completion time"
+}

@@ -1,0 +1,5 @@
+configuration,completion_s,behavior
+baseline disk speed,,
+btrfs,1.595,disk flush + fs-verity
+ext4 ,1.3,fs-verity
+tmpfs,0.35,

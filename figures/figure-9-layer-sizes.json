@@ -1,0 +1,15 @@
+{
+  "source": "RESULTS.md Run 17; remainder derived from rounded 16.99 GB total",
+  "labels": [
+    "Layer 6",
+    "Layer 10",
+    "Layer 13",
+    "Other 12 layers"
+  ],
+  "tar_GB": [
+    3.11,
+    5.946,
+    7.636,
+    0.29799999999999915
+  ]
+}

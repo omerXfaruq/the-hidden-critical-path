@@ -1,0 +1,80 @@
+run,elapsed_s_bin_center,network_gbps_1s_mean
+Sequential unpack,0.5,8.5643
+Sequential unpack,1.5,11.6964
+Sequential unpack,2.5,7.3696
+Sequential unpack,3.5,11.9885
+Sequential unpack,4.5,4.9584
+Sequential unpack,5.5,2.9935
+Sequential unpack,6.5,7.8861
+Sequential unpack,7.5,3.791
+Sequential unpack,8.5,0.7365
+Sequential unpack,9.5,0.4486
+Sequential unpack,10.5,1.7691
+Sequential unpack,11.5,1.82
+Sequential unpack,12.5,0.0
+Sequential unpack,13.5,0.0
+Sequential unpack,14.5,0.0
+Sequential unpack,15.5,0.0
+Sequential unpack,16.5,0.0
+Sequential unpack,17.5,0.0
+Sequential unpack,18.5,0.0
+Sequential unpack,19.5,0.0
+Sequential unpack,20.5,0.0
+Sequential unpack,21.5,0.0
+Sequential unpack,22.5,0.0
+Sequential unpack,23.5,0.0
+Sequential unpack,24.5,0.0
+Sequential unpack,25.5,0.0
+Sequential unpack,26.5,0.0
+Sequential unpack,27.5,0.0
+Sequential unpack,28.5,0.0
+Sequential unpack,29.5,0.0
+Sequential unpack,30.5,0.0
+Sequential unpack,31.5,0.0
+Sequential unpack,32.5,0.0
+Sequential unpack,33.5,0.0
+Sequential unpack,34.5,0.0
+Sequential unpack,35.5,0.0
+Sequential unpack,36.5,0.0
+Sequential unpack,37.5,0.0
+Sequential unpack,38.5,0.0
+Sequential unpack,39.5,0.0
+Sequential unpack,40.5,0.0
+Sequential unpack,41.5,0.0
+Sequential unpack,42.5,0.0
+Sequential unpack,43.5,0.0
+Sequential unpack,44.5,0.0
+Sequential unpack,45.5,0.0
+Sequential unpack,46.5,0.0
+Sequential unpack,47.5,0.0
+Sequential unpack,48.27,0.0
+Parallel unpack (20),0.5,8.2996
+Parallel unpack (20),1.5,11.0189
+Parallel unpack (20),2.5,10.4542
+Parallel unpack (20),3.5,7.25
+Parallel unpack (20),4.5,5.3987
+Parallel unpack (20),5.5,2.4364
+Parallel unpack (20),6.5,4.7715
+Parallel unpack (20),7.5,5.4473
+Parallel unpack (20),8.5,3.6617
+Parallel unpack (20),9.5,2.9444
+Parallel unpack (20),10.5,1.975
+Parallel unpack (20),11.5,0.4461
+Parallel unpack (20),12.5,0.0
+Parallel unpack (20),13.5,0.0
+Parallel unpack (20),14.5,0.0
+Parallel unpack (20),15.5,0.0
+Parallel unpack (20),16.5,0.0
+Parallel unpack (20),17.5,0.0
+Parallel unpack (20),18.5,0.0
+Parallel unpack (20),19.5,0.0
+Parallel unpack (20),20.5,0.0
+Parallel unpack (20),21.5,0.0
+Parallel unpack (20),22.5,0.0
+Parallel unpack (20),23.5,0.0
+Parallel unpack (20),24.5,0.0
+Parallel unpack (20),25.5,0.0
+Parallel unpack (20),26.5,0.0
+Parallel unpack (20),27.5,0.0
+Parallel unpack (20),28.5,0.0
+Parallel unpack (20),29.4,0.0

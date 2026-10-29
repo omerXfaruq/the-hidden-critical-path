@@ -1,0 +1,32 @@
+{
+  "source": "Author-supplied baseline and patched trace intervals",
+  "baseline_original_intervals_s": [
+    [
+      0.81,
+      1.02
+    ],
+    [
+      1.03,
+      1.23
+    ],
+    [
+      1.23,
+      1.42
+    ]
+  ],
+  "patched_original_intervals_s": [
+    [
+      0.0,
+      0.308
+    ],
+    [
+      0.002,
+      0.31
+    ],
+    [
+      0.002,
+      0.313
+    ]
+  ],
+  "alignment": "each trace independently normalized to first fs-verity start"
+}

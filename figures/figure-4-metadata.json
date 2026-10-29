@@ -1,0 +1,15 @@
+{
+  "Sequential unpack": {
+    "pull_total_s": 48.54014229774475,
+    "final_layer": "a04e8a0e",
+    "last_extraction_end_s": 48.383868,
+    "network_max_1s_gbps": 11.988451289142185
+  },
+  "Parallel unpack (20)": {
+    "pull_total_s": 29.799083471298218,
+    "final_layer": "a04e8a0e",
+    "last_extraction_end_s": 28.365718,
+    "network_max_1s_gbps": 11.018866094702435
+  },
+  "notes": "Log zero = first log event; counters zero = command start; offset <0.15 s. Fetch/verification and commit intervals are not logged per layer, so only extraction is drawn. 'layer unpacked' timestamps are not used."
+}

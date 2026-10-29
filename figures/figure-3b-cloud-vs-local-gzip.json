@@ -1,0 +1,12 @@
+{
+  "source": "RESULTS.md Runs 7b and 17",
+  "configurations": [
+    "Cloud VM",
+    "Local testbed"
+  ],
+  "seconds": [
+    266.7,
+    88.5
+  ],
+  "scope": "Full pulls; infrastructure comparison, not a disk-only intervention"
+}

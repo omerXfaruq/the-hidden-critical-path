@@ -1,0 +1,26 @@
+{
+  "panel_a": "mechanism schematic; no measured timestamps; no stitched traces",
+  "panel_b": [
+    {
+      "configuration": "baseline disk speed",
+      "completion_s": null,
+      "behavior": ""
+    },
+    {
+      "configuration": "btrfs",
+      "completion_s": 1.595,
+      "behavior": "disk flush + fs-verity"
+    },
+    {
+      "configuration": "ext4 ",
+      "completion_s": 1.3,
+      "behavior": "fs-verity"
+    },
+    {
+      "configuration": "tmpfs",
+      "completion_s": 0.35,
+      "behavior": ""
+    }
+  ],
+  "source": "RESULTS.md Run 12, concurrency 3, warm, untraced (btrfs 1.51, ext4 1.30, tmpfs 0.35)"
+}

@@ -1,0 +1,15 @@
+{
+  "source": "Manuscript Table 4; RESULTS.md Runs 7 and 12",
+  "end_to_end_gbps": [
+    0.95,
+    8.5
+  ],
+  "peak_gbps": [
+    2.8,
+    57
+  ],
+  "workloads": [
+    "Cloud VM",
+    "Local testbed"
+  ]
+}

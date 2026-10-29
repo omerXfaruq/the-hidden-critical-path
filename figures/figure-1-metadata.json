@@ -1,0 +1,14 @@
+{
+  "pull_duration_s": 266.6529312133789,
+  "last_bulk_network_sample_s": 90.93,
+  "bulk_threshold_gbps": 0.01,
+  "first_extraction_start_s": 0.71788923,
+  "last_extraction_end_s": 266.234667,
+  "network_display": "time-weighted 1 s means",
+  "peak_network_gbps": 3.6521212237110414,
+  "peak_network_time_s": 5.48,
+  "log_alignment": "First recorded runtime event aligned to command elapsed zero; approximate.",
+  "extraction_intervals": "diff applied timestamp minus d; gaps are not extraction.",
+  "source_samples": "/home/omer/git/tmp/ec2/pytorch/samples.json",
+  "source_log": "/home/omer/git/tmp/ec2/pytorch/debug.log"
+}

@@ -1,0 +1,7 @@
+{
+  "source": "RESULTS.md Runs 7b and 17",
+  "received_GB": 9.4,
+  "snapshot_GB": 16.93,
+  "logical_total_GB": 26.33,
+  "conversion": "GB = decimal bytes / 1e9"
+}

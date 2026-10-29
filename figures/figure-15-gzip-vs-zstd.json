@@ -1,0 +1,14 @@
+{
+  "source": "figure-3-full-pull.json (Figure 10), local sequential configurations; RESULTS.md Run 17",
+  "configurations": [
+    "Gzip",
+    "Zstd"
+  ],
+  "seconds": [
+    88.5,
+    48.5
+  ],
+  "speedup": 1.824742268041237,
+  "reduction_percent": 45.19774011299435,
+  "timing_scope": "Full pull, including download, verification, commits and sequential unpack; not decoder-only time."
+}

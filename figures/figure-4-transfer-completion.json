@@ -1,0 +1,6 @@
+{
+  "transfer_s": 0.31,
+  "total_s": 1.595,
+  "source": "RESULTS.md Run 12 transfer; Run 19 baseline first observation",
+  "scope": "Illustrative split combining timings from separate runs, not a measured trace"
+}
