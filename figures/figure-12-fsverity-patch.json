@@ -4,7 +4,7 @@
   "patched_s": 1.03,
   "image_GB": 1.610612736,
   "end_to_end_gbps": [
-    8.12,
+    8.1,
     16.95
   ],
   "disk_sequential_write_gbps": 19.6,

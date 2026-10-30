@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-10-29T15:30:01.858222</dc:date>
+    <dc:date>2026-10-29T17:11:48.796041</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -42,7 +42,7 @@ z
      <g id="line2d_1">
       <path d="M 201.6 235.872
 L 201.6 84.672
-" clip-path="url(#p66be433686)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.7; stroke-linecap: square"/>
+" clip-path="url(#pba4a0a17af)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.7; stroke-linecap: square"/>
      </g>
      <g id="line2d_2"/>
      <g id="text_1">
@@ -53,7 +53,7 @@ L 201.6 84.672
      <g id="line2d_3">
       <path d="M 297.6 235.872
 L 297.6 84.672
-" clip-path="url(#p66be433686)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.7; stroke-linecap: square"/>
+" clip-path="url(#pba4a0a17af)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.7; stroke-linecap: square"/>
      </g>
      <g id="line2d_4"/>
      <g id="text_2">
@@ -64,7 +64,7 @@ L 297.6 84.672
      <g id="line2d_5">
       <path d="M 393.6 235.872
 L 393.6 84.672
-" clip-path="url(#p66be433686)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.7; stroke-linecap: square"/>
+" clip-path="url(#pba4a0a17af)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.7; stroke-linecap: square"/>
      </g>
      <g id="line2d_6"/>
      <g id="text_3">
@@ -75,7 +75,7 @@ L 393.6 84.672
      <g id="line2d_7">
       <path d="M 489.6 235.872
 L 489.6 84.672
-" clip-path="url(#p66be433686)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.7; stroke-linecap: square"/>
+" clip-path="url(#pba4a0a17af)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.7; stroke-linecap: square"/>
      </g>
      <g id="line2d_8"/>
      <g id="text_4">
@@ -86,7 +86,7 @@ L 489.6 84.672
      <g id="line2d_9">
       <path d="M 585.6 235.872
 L 585.6 84.672
-" clip-path="url(#p66be433686)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.7; stroke-linecap: square"/>
+" clip-path="url(#pba4a0a17af)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.7; stroke-linecap: square"/>
      </g>
      <g id="line2d_10"/>
      <g id="text_5">
@@ -119,11 +119,11 @@ L 585.6 84.672
    </g>
    <g id="patch_3">
     <path d="M 201.6 91.544727
-L 357.504 91.544727
-L 357.504 106.817455
+L 357.12 91.544727
+L 357.12 106.817455
 L 201.6 106.817455
 z
-" clip-path="url(#p66be433686)" style="fill: #2a78d6"/>
+" clip-path="url(#pba4a0a17af)" style="fill: #2a78d6"/>
    </g>
    <g id="patch_4">
     <path d="M 201.6 152.635636
@@ -131,7 +131,7 @@ L 527.04 152.635636
 L 527.04 167.908364
 L 201.6 167.908364
 z
-" clip-path="url(#p66be433686)" style="fill: #164a85"/>
+" clip-path="url(#pba4a0a17af)" style="fill: #164a85"/>
    </g>
    <g id="patch_5">
     <path d="M 201.6 213.726545
@@ -139,7 +139,7 @@ L 577.92 213.726545
 L 577.92 228.999273
 L 201.6 228.999273
 z
-" clip-path="url(#p66be433686)" style="fill: #f4a582"/>
+" clip-path="url(#pba4a0a17af)" style="fill: #f4a582"/>
    </g>
    <g id="patch_6">
     <path d="M 201.6 235.872
@@ -147,13 +147,13 @@ L 662.4 235.872
 " style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_10">
-    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="365.184" y="102.038513" transform="rotate(-0 365.184 102.038513)">8.12</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="364.8" y="102.038513" transform="rotate(-0 364.8 102.038513)">8.1</text>
    </g>
    <g id="text_11">
     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="534.72" y="163.129422" transform="rotate(-0 534.72 163.129422)">16.95</text>
    </g>
    <g id="text_12">
-    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="585.6" y="224.220331" transform="rotate(-0 585.6 224.220331)">19.60</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="585.6" y="224.220331" transform="rotate(-0 585.6 224.220331)">19.6</text>
    </g>
   </g>
   <g id="text_13">
@@ -161,7 +161,7 @@ L 662.4 235.872
   </g>
  </g>
  <defs>
-  <clipPath id="p66be433686">
+  <clipPath id="pba4a0a17af">
    <rect x="201.6" y="84.672" width="460.8" height="151.2"/>
   </clipPath>
  </defs>

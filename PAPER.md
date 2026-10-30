@@ -282,10 +282,10 @@ A CPU profile identifies this streaming verification as the dominant cost: SHA-2
 
 | Scope | Download bottleneck | Throughput (Gbps) |
 |---|---|---:|
-| Per stream | HTTP delivery from the local registry (curl) | 50 |
-| Per stream | SHA-256 verification | 15 |
+| Per stream | HTTP | 50 |
+| Per stream | SHA-256 | 15 |
 | Per stream | fs-verity | 20 |
-| Per image | disk | 19.6 |
+| Per stream | SHA-256 + fs-verity | 8.6 |
 
 *Table 6. Download bottlenecks and their scope on the local testbed. The HTTP rate describes this source and connection; the daemon-wide fs-verity limit is shared across image pulls.*
 
